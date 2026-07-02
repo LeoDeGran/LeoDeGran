@@ -1,25 +1,106 @@
 
-## Oi, sou o Leonardo De Grandi 👋
-<br>
+<h1 align="center">Olá, eu sou o Leonardo De Grandi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=25&duration=4200&color=00BFFF&height=50&lines=echo+%22Ol%C3%A1%2C+mundo!%22;Desenvolvedor+de+Software;Fullstack+Developer&center=true" alt="Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=4FA3FF&center=true&vCenter=true&width=650&lines=Desenvolvedor+Full+Stack;JavaScript+%7C+Python+%7C+React;UI%2FUX+Designer;Sempre+aprendendo+algo+novo." />
 </p>
 
-<div align="center">
-  <a href="https://github.com/LeoDeGran">
-    <img align="center" height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeoDeGran&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img align="center" height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeoDeGran&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
+---
 
-<div align="center"><br>
-  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Leo-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Leo-SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-</div>
+## 🚀 Sobre mim
+
+💻 Desenvolvedor Full Stack apaixonado por tecnologia e resolução de problemas.
+
+🎯 Tenho interesse em desenvolvimento web, interfaces modernas, integração de APIs, bancos de dados e arquitetura de software.
+
+📚 Atualmente estou aprofundando meus conhecimentos em:
+
+- React
+- JavaScript
+- Python
+- Flask
+- Node.js
+- SQL Server
+- SQLite
+- UX/UI Design
+
+---
+
+## 🛠 Tecnologias
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,python,flask,git,github,vscode&theme=dark"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LeoDeGran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDeGran&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=LeoDeGran&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=LeoDeGran&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+
+</p>
+
+---
+
+## 📈 Contribuições
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeoDeGran&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 💡 Áreas de Interesse
+
+- 🌐 Desenvolvimento Web
+- ⚛️ React
+- 🐍 Python
+- 🔗 APIs REST
+- 🗄️ Banco de Dados
+- 🎨 UI/UX
+- 📱 Aplicações Responsivas
+- ⚡ Automação
+- ☁️ Cloud Computing
+
+---
+
+## 🎯 Objetivo
+
+Construir soluções modernas, eficientes e escaláveis, aplicando boas práticas de desenvolvimento, arquitetura de software e experiência do usuário.
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=LeoDeGran&label=Visualizações&color=3b82f6&style=for-the-badge"/>
+
+</p>
 ```
