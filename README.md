@@ -7,23 +7,6 @@
 
 ---
 
-## 🚀 Sobre mim
-
-💻 Desenvolvedor Full Stack apaixonado por tecnologia e resolução de problemas.
-
-🎯 Tenho interesse em desenvolvimento web, interfaces modernas, integração de APIs, bancos de dados e arquitetura de software.
-
-📚 Atualmente estou aprofundando meus conhecimentos em:
-
-- React
-- JavaScript
-- Python
-- Flask
-- Node.js
-- SQL Server
-- SQLite
-- UX/UI Design
-
 ---
 
 ## 🛠 Tecnologias
