@@ -7,8 +7,6 @@
 
 ---
 
----
-
 ## 🛠 Tecnologias
 
 <p align="center">
@@ -17,7 +15,6 @@
 
 </p>
 
-.
 
 ---
 
