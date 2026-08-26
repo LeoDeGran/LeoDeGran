@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá, eu sou o Leonardo De Grandi 👋</h1>
+<h1 align="center">Olá 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=4FA3FF&center=true&vCenter=true&width=650&lines=Desenvolvedor+Full+Stack;JavaScript+%7C+Python+%7C+React;Sempre+aprendendo+algo+novo." />
