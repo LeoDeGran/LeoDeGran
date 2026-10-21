@@ -81,8 +81,6 @@ Creative Development
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LeoDeGran&show_icons=true&theme=github_dark&hide_border=true&commits_year=2026&rank_icon=github" alt="GitHub Stats 2026" />
-
 <img width="49%" src="https://streak-stats.demolab.com?user=LeoDeGran&theme=github-dark-blue&hide_border=true&starting_year=2026" alt="GitHub Streak 2026" />
 
 <br/><br/>
