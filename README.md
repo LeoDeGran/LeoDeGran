@@ -31,25 +31,28 @@ My work combines **software engineering, creative development, and user experien
 
 ---
 
+
+
 ### Tech Stack
 
 <div align="center">
 
 **Frontend Development**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind&theme=dark" alt="Frontend technologies" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind&theme=dark" />
 
 <br/>
 
-**Backend Development**
+**Backend Development & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,sqlite&theme=dark" alt="Backend technologies" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,sqlite&theme=dark" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="Microsoft SQL Server" />
 
 <br/>
 
 **Tools & Workflow**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" alt="Development tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
 
 </div>
 
@@ -73,23 +76,21 @@ Creative Development
 
 ---
 
-### GitHub Analytics
+
+### GitHub Analytics — 2026
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LeoDeGran&show_icons=true&theme=github_dark&hide_border=true&count_private=false&rank_icon=github" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LeoDeGran&show_icons=true&theme=github_dark&hide_border=true&commits_year=2026&rank_icon=github" alt="GitHub Stats 2026" />
 
-<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDeGran&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Most Used Languages" />
+<img width="49%" src="https://streak-stats.demolab.com?user=LeoDeGran&theme=github-dark-blue&hide_border=true&starting_year=2026" alt="GitHub Streak 2026" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=LeoDeGran&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=LeoDeGran&theme=github-compact&hide_border=true&area=true&from=2026-01-01&to=2026-10-21" alt="GitHub Activity 2026" />
 
 </div>
+
 
 ---
 
